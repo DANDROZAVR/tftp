@@ -1,4 +1,4 @@
-# SO shell - etap1
+# TfTP communication
 Simple client and server python [tftp](https://datatracker.ietf.org/doc/html/rfc1350) implementation for transfer files.
 
 ## Client
