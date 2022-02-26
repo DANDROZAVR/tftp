@@ -12,7 +12,7 @@ python3 client.py 69 localhost a.txt
 ```
 
 ## Server
-Mr. Server can serve multiple connections with different clients at the same time, having the relevant information about such communication. At the beggining, *window wize* and *block size* can be specified if the client bring him the necessary information (and of course can offer his suggestion about them)
+Mr. Server can serve multiple connections with different clients at the same time, having the relevant information about such communication. At the beggining, *window wize* and *block size* can be specified if the client bring him the necessary information (and of course server can offer his own remarks)
 
 ##### Usage
 
